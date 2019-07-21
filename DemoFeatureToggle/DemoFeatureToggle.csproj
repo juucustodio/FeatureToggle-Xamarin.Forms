@@ -13,5 +13,6 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="4.1.0.581479" />
     <PackageReference Include="Xamarin.Essentials" Version="1.2.0" />
+    <PackageReference Include="ConfigCat.Client" Version="2.3.0" />
   </ItemGroup>
 </Project>
